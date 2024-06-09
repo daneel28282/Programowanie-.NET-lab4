@@ -2,5 +2,6 @@
 
  Zadanie nr 1
 
- rec
+ requirements
+ 
  NuGet\Install-Package SSH.NET -Version 2023.0.0
